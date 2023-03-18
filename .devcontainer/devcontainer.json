@@ -35,7 +35,7 @@
 				"peakchen90.open-html-in-browser"
 			]
 		}
-	} //, // need comma if add more after features
+	}, //, // need comma if add more after features
 
 	// Forward Jupyter and RStudio ports
 	"forwardPorts": [8787, 8888],
